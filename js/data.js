@@ -1,6 +1,6 @@
-/* Datos del catálogo. Puedes editarlo a mano o regenerarlo desde el panel Admin. */
+/* Datos del catálogo. Generado desde el panel Admin. */
 window.CATALOG = {
- "rev": "2026-10-11T00:00:00Z",
+ "rev": "2026-10-15T21:57:40.833Z",
  "pin": "854089666",
  "products": [
   {
@@ -57,19 +57,6 @@ window.CATALOG = {
    ]
   },
   {
-   "n": "New Balance 530",
-   "c": "Zapatillas",
-   "w": "women",
-   "p": null,
-   "i": "zapatilla",
-   "h": 55,
-   "t": "6 al 10",
-   "imgs": [
-    "images/05-new-balance-530-1.jpg",
-    "images/05-new-balance-530-2.jpg"
-   ]
-  },
-  {
    "n": "Jordan Everyday 3 Pack Cushion Crew Socks",
    "c": "Ropa",
    "w": "men",
@@ -106,20 +93,6 @@ window.CATALOG = {
     "images/08-nike-air-force-1-07-2.jpg",
     "images/08-nike-air-force-1-07-3.jpg",
     "images/08-nike-air-force-1-07-4.jpg"
-   ]
-  },
-  {
-   "n": "adidas Samba OG Cracked Metallic",
-   "c": "Zapatillas",
-   "w": "women",
-   "p": null,
-   "i": "zapatilla",
-   "h": 45,
-   "t": "6 al 8.5",
-   "imgs": [
-    "images/09-adidas-samba-og-cracked-metallic-1.jpg",
-    "images/09-adidas-samba-og-cracked-metallic-2.jpg",
-    "images/09-adidas-samba-og-cracked-metallic-3.jpg"
    ]
   },
   {
